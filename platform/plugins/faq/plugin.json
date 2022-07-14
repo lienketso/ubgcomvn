@@ -1,0 +1,9 @@
+{
+  "name": "FAQ",
+  "namespace": "Botble\\Faq\\",
+  "provider": "Botble\\Faq\\Providers\\FaqServiceProvider",
+  "author": "Alusoft",
+  "url": "https://alusoft.vn",
+  "version": "5.8",
+  "description": "Frequently Asked Question(s) FAQ"
+}

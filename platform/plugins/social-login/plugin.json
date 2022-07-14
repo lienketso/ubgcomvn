@@ -1,0 +1,9 @@
+{
+    "name": "Social Login",
+    "namespace": "Botble\\SocialLogin\\",
+    "provider": "Botble\\SocialLogin\\Providers\\SocialLoginServiceProvider",
+    "author": "Alusoft",
+    "url": "https://alusoft.vn",
+    "version": "5.8",
+    "description": "Easier and faster login with Facebook, LinkedIn, Github or Google."
+}

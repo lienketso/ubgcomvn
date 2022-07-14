@@ -1,0 +1,9 @@
+{
+    "name": "Cookie Consent",
+    "namespace": "Botble\\CookieConsent\\",
+    "provider": "Botble\\CookieConsent\\Providers\\CookieConsentServiceProvider",
+    "author": "Alusoft",
+    "url": "https://alusoft.vn",
+    "version": "5.8",
+    "description": "Cookie Consent"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Language",
+    "namespace": "Botble\\Language\\",
+    "provider": "Botble\\Language\\Providers\\LanguageServiceProvider",
+    "author": "Alusoft",
+    "url": "https://alusoft.vn",
+    "version": "5.8",
+    "description": "Multilingual"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SslCommerz Payment Gateway",
+    "namespace": "Botble\\SslCommerz\\",
+    "provider": "Botble\\SslCommerz\\Providers\\SslCommerzServiceProvider",
+    "author": "Alusoft",
+    "url": "https://alusoft.vn",
+    "version": "1.0",
+    "description": "SslCommerz payment gateway integration",
+    "require": ["payment"]
+}
